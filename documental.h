@@ -1,4 +1,1 @@
-#ifndef DOCUMENTAL_H
-#define DOCUMENTAL_H
-
-#endif
+// el nombre de usuario en git fue jose
